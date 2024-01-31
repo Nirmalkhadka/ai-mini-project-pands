@@ -1,7 +1,3 @@
-Certainly! Below is a README template you can use for your GitHub repository containing these two code files. This README provides an overview of the project, its functionality, and instructions on how to use it.
-
----
-
 # Hand Gesture Recognition and Data Collection
 
 ## Introduction
